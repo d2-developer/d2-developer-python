@@ -1,4 +1,4 @@
-# All files code related to the Binance intergration for buy or sell the share for diffrent market place and crypto trading.
+# All files code related to the Binance intergration for the trading for diffrent market place and crypto trading.
 
 
 # form.py
